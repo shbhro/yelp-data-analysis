@@ -31,24 +31,5 @@ Welcome to the Yelp Data Analysis project by Team 01! This project aims to provi
 * Plotly
 * MySQL
 
-## Contributors
-### Project Manager
-- **Muza**
-  - GitHub: [muzcodes](https://github.com/muzcodes)
-  - Email: mujahidshubhro@gmail.com
-
-### Co-Developers
-- **Abdessamad Grine**
-  - GitHub: [Abdou-root](https://github.com/Abdou-root)
-  - Email: grineabdessamed2003@gmail.com
-
-- **Nicholes**
-  - GitHub: [REDZY6](https://github.com/REDZY6)
-  - Email: nccynicholeschin@gmail.com
-
-- **Hebe**
-  - GitHub: [LazyDaizy03](https://github.com/LazyDaizy03)
-  - Email: hbeebe030330@gmail.com
-
 ## Acknowledgments
 We would like to express our gratitude to the developers and contributors of the libraries and tools used in this project, including Streamlit, Plotly, Pandas, and more.
